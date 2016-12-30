@@ -1,0 +1,18 @@
+reading config...
+config (4, path)=(7, ../sdir)
+config (12, account_path)=(17, ../config/account)
+config (10, thread_num)=(1, 7)
+config (8, run_path)=(54, /home/course/select/r04921005/SP16MP5-R04921005/config)
+Terminate the parent, and start to daemonize(child pid = 17716)
+reading config...
+config (4, path)=(7, ../sdir)
+config (12, account_path)=(17, ../config/account)
+config (10, thread_num)=(1, 7)
+config (8, run_path)=(54, /home/course/select/r04921005/SP16MP5-R04921005/config)
+Terminate the parent, and start to daemonize(child pid = 11607)
+reading config...
+config (4, path)=(7, ../sdir)
+config (12, account_path)=(17, ../config/account)
+config (10, thread_num)=(1, 7)
+config (8, run_path)=(54, /home/course/select/r04921005/SP16MP5-R04921005/config)
+Terminate the parent, and start to daemonize(child pid = 18696)
