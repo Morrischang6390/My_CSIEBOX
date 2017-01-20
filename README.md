@@ -1,4 +1,4 @@
-# SP16MP5-R04921005
+# My CSIEBOX for system programming in fall 2016
 
-I used my MP4 to implement MP5 (monitering active threads).
-And, I tested my MP5 by python script (printstatus.py) because I can't run the web server in CSIE workstation.
+This is a application which provide some convient service like google drive or dropbox.
+Apply multithreading to dealing with multi-client uploadeing files, and use multex to gaurantee the data consistency.
